@@ -1,0 +1,11 @@
+C:\Users\USER01\Desktop\C#\Döngüler 2\Döngüler 2\bin\Debug\Döngüler 2.exe.config
+C:\Users\USER01\Desktop\C#\Döngüler 2\Döngüler 2\bin\Debug\Döngüler 2.exe
+C:\Users\USER01\Desktop\C#\Döngüler 2\Döngüler 2\bin\Debug\Döngüler 2.pdb
+C:\Users\USER01\Desktop\C#\Döngüler 2\Döngüler 2\obj\Debug\Döngüler 2.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Döngüler 2\Döngüler 2\obj\Debug\Döngüler 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER01\Desktop\C#\Döngüler 2\Döngüler 2\obj\Debug\Döngüler_2.Form1.resources
+C:\Users\USER01\Desktop\C#\Döngüler 2\Döngüler 2\obj\Debug\Döngüler_2.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Döngüler 2\Döngüler 2\obj\Debug\Döngüler 2.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Döngüler 2\Döngüler 2\obj\Debug\Döngüler 2.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Döngüler 2\Döngüler 2\obj\Debug\Döngüler 2.exe
+C:\Users\USER01\Desktop\C#\Döngüler 2\Döngüler 2\obj\Debug\Döngüler 2.pdb
